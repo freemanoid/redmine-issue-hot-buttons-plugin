@@ -13,22 +13,9 @@ Licensed under GNU Lesser General Public License, version 2.1
 
 Documentation: http://thumbtack-technology.github.com/redmine-issue-hot-buttons/
 
-Install
--------
-
-1. `Download <https://github.com/thumbtack-technology/redmine-issue-hot-buttons/downloads>`_ plugin
-2. Extract to your Redmine into vendor/plugins/issue_hot_buttons_plugin
-3. Restart web server
-
 Author
 ------
-.. image:: http://thumbtack-technology.github.com/redmine-issue-hot-buttons/thumbtack_logo.png
-
+Original author:
 `Thumbtack Technology, Inc. <http://thumbtack.net>`_, Mike Kolganov (mike.kolganov@gmail.com)
 
-
-Special Thanks
---------------
-https://github.com/archonwang (Steven.W) archonwang1981@gmail.com - translate to Simplified Chinese
-
-Welcome to new contributors, especially translators!
+Many changes for redmine 2.2.0 support.
